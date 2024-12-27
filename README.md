@@ -1,0 +1,1 @@
+This repository contains a short Python script demonstrating two uncommon error scenarios: a ZeroDivisionError and a custom ValueError.  The script showcases how these errors can occur and provides a solution demonstrating proper error handling.  The `bug.py` file shows the code with the errors, and `bugSolution.py` demonstrates improved handling.
